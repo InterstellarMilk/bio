@@ -1,0 +1,113 @@
+.title{
+	color:white;
+	letter-spacing:10px;
+	font-family:teko, bold;
+	font-size:64px;
+
+}
+body{
+	background-color:black;
+}
+h5{
+	color:white;
+	display:inline;
+	padding:10px;
+	
+}
+.nav-link{
+	color:white;
+}
+img{
+	width:100%;
+	border-top:20px solid black;
+	border-bottom:20px solid black;
+}
+.wire-bg{
+	
+	background-image:url("img/wire.png");
+	background-color:yellow;
+	background-size:110%;
+	background-repeat:no-repeat;
+	background-position:75% -30%;
+}
+.wire-bg-2{
+	
+	background-color:yellow;
+	background-size:110%;
+	background-repeat:no-repeat;
+	background-position:75% -40%;
+}
+.home{
+	text-align: center;
+	padding:100px;
+	font-size:75px;
+	color:black;
+}
+.center-text{
+	text-align:center;
+	font-family:major mono display;
+	font-size:70px;
+}
+.live-1{
+	text-align:center;
+	font-family:teko;
+	border: 10px solid #353030;
+  	padding: 10px;
+  	border-radius: 50px 20px;
+}
+hr{
+	border:2px solid;
+}
+li{
+	text-align:center;
+	font-size:20px;
+}
+.img-1{
+	border-radius:50px 20px;
+	width:90%;
+	height:90%;
+
+}
+p{
+	font-size:27px;
+}
+span{
+	font-weight: bold;
+	font-size:35px;
+}
+.us-tour{
+	font-size:50px;
+}
+.one{
+	text-align:left;
+	padding:5px;
+}
+.two{
+	text-align:right;
+	padding:5px;
+}
+.us-pic{
+	height:50%;
+	width:50%;
+	border-top:20px solid black;
+	border-bottom:20px solid black;
+	border-radius:30px;
+}
+.about{
+	font-size:23px;
+}
+button{
+	float:left;
+
+
+}
+.button-2{
+	float:right;
+}
+a:hover{
+	text-decoration: none;
+	color:yellow;
+}
+
+
+
